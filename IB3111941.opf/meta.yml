@@ -1,0 +1,46 @@
+id: IB3111941
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:32:29.187058'
+last_modified: '2022-06-15T20:32:29.187063'
+parser: null
+source_metadata:
+  title: Akṣobhya Series
+  language: bo
+  description: 'Texts related to Buddha Akṣobhya (mi bskyod pa/mi ’khrugs pa), the
+    ‘Unwavering One’:'
+  volume:
+    f9B99:
+      title: Verses in Praise of the Protector Akṣobhya
+      base_file: f9B99.txt
+      order: 1
+      parent: Praise
+    f43FC:
+      title: 'Opening the Door to Great Bliss: An Aspiration Towards the Realm of
+        Abhirati'
+      base_file: f43FC.txt
+      order: 2
+      parent: Prayers
+    f3442:
+      title: 'Opening the Door to a Pure Realm: An Aspiration Towards Abhirati'
+      base_file: f3442.txt
+      order: 3
+      parent: Prayers
+    f979B:
+      title: Prayer to Akṣobhya
+      base_file: f979B.txt
+      order: 4
+      parent: Prayers
+    fA72C:
+      title: A Daily Practice of Buddha Akṣobhya
+      base_file: fA72C.txt
+      order: 5
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
